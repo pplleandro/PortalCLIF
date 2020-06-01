@@ -6,3 +6,10 @@ db.sqlite3
 /static
 .DS_Store
 .idea
+<<<<<<< Updated upstream
+.vscode
+venv
+migrations
+=======
+.vscode
+>>>>>>> Stashed changes
